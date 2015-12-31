@@ -1,0 +1,6 @@
+/__init__.pyc
+/admin.pyc
+/models.pyc
+/views.pyc
+/mixins.pyc
+/serializers.pyc

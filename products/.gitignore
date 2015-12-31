@@ -1,0 +1,11 @@
+/__init__.pyc
+/admin.pyc
+/filters.pyc
+/forms.pyc
+/mixins.pyc
+/models.pyc
+/pagination.pyc
+/urls.pyc
+/views.pyc
+/serializers.pyc
+/urls_categories.pyc
